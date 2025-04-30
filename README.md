@@ -1,1 +1,1 @@
-# Edge-Detection-for-Face-Image-Segmentation-
+# Edge Detection for Face Image Segmentation
