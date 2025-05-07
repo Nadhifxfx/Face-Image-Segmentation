@@ -1,7 +1,4 @@
 # Edge Detection for Face Image Segmentation
-
- # Jawaban
-
 ```python
 # Install dan import library
 !pip install opencv-python-headless
